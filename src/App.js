@@ -18,7 +18,7 @@ function App() {
     <div className="App">
   <MylineChart></MylineChart>
 
-  <animated.div style={props}>I will fade in</animated.div>
+  <animated.div style={props}>I will fade in animated</animated.div>
   <SpecialChart></SpecialChart>
     </div>
   );
